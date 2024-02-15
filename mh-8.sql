@@ -1,4 +1,4 @@
-
+-- Belediye alanlarının her bölgede yapıldığı satış sayısını gösteren sorgu
 
 SELECT 
 CouncilArea,
